@@ -1,0 +1,6 @@
+make[1]: 进入目录“/media/wmzb/117BA0F9097950C7/Sparrow Studio/SparrowOS Develop/code”
+make -r boot.img
+make[2]: 进入目录“/media/wmzb/117BA0F9097950C7/Sparrow Studio/SparrowOS Develop/code”
+make[2]: “boot.img”已是最新。
+make[2]: 离开目录“/media/wmzb/117BA0F9097950C7/Sparrow Studio/SparrowOS Develop/code”
+make[1]: 离开目录“/media/wmzb/117BA0F9097950C7/Sparrow Studio/SparrowOS Develop/code”
