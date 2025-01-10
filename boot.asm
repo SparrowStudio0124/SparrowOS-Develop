@@ -27,7 +27,7 @@ Label_Start:
     mov    ax,    1301h 
     mov    bx,    000fh 
     mov    dx,    0000h 
-    mov    cx,    10 
+    mov    cx,    13
     push   ax 
     mov    ax,    ds 
     mov    es,    ax 
@@ -42,7 +42,7 @@ Label_Start:
  
     jmp    $ 
 
-    StartBootMessage:    db    "Start Boot" 
+    StartBootMessage:    db    "1145141919810" 
  
 ;=======    fill zero until whole sector 
  
